@@ -1,0 +1,62 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15pt;
+	background-color: #F8F8F8;
+	color: #4D4D4D;
+}
+
+#mlogo {
+	width: 100%;
+	height: auto;
+}
+
+/*.pacifico {
+	font-family: 'Pacifico', cursive;
+}*/
+
+h2 {
+	font-weight: bold;
+	font-family: 'Pacifico', cursive;
+}
+
+h3 {
+	font-family: 'Pacifico', cursive;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.smallcaps {
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+.flex-container {
+	display: flex;
+}
+
+.pair {
+	display: flex;
+}
+
+.pair:nth-child(odd) {
+	display: flex;
+	flex-flow: row-reverse;
+}
+
+.pair p {
+	margin-top: 40%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.pair div {
+	display: inline-block;
+	vertical-align: middle;
+}
+/*.screen {
+	width: ;
+}*/
