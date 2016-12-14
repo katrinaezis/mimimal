@@ -18,10 +18,7 @@ body {
 	font-family: 'Pacifico', cursive;
 }*/
 
-h2 {
-	font-weight: bold;
-	font-family: 'Pacifico', cursive;
-}
+
 
 h3 {
 	margin-top: 0px;
@@ -103,10 +100,11 @@ h3 {
 h2 {
 	margin-top: 0px;
 	padding-top: 0px;
-	color: white;
 	position: absolute;
 	bottom: 10px;
 	left: 10px;
+	font-family: 'Pacifico', cursive;
+	color: #e1eef6;
 }
 
 h4 {
