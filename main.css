@@ -1,6 +1,7 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 20pt;
+	font-weight: 300;
 	background-color: #F8F8F8;
 	color: #4D4D4D;
 }
@@ -20,7 +21,13 @@ h2 {
 }
 
 h3 {
-	font-family: 'Pacifico', cursive;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+.screen {
+	width: 376px;
+	height: 668px;
 }
 
 #blurb p {
@@ -66,14 +73,13 @@ h3 {
 	margin-right: 20px;
 }
 
-/*.pair div {
+.pair div {
 	display: inline-block;
 	vertical-align: middle;
-}*/
+}
 /*.screen {
 	width: ;
-}*/
-html, body {
+}*/html, body {
 	height: 100%;
 }
 
